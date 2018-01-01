@@ -1,0 +1,4 @@
+.idea/
+venv/
+mongo-test.py
+*.pyc
